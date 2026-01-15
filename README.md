@@ -136,7 +136,7 @@ Since the dataset has 4 dimensions, **PCA is used to project data into 2D** for 
 * Irregular regions
 * Sensitive to overlapping samples
 
-![KNN Decision Boundary](knn.png)
+![KNN Decision Boundary](visualization/knn.png)
 
 ---
 
@@ -145,7 +145,7 @@ Since the dataset has 4 dimensions, **PCA is used to project data into 2D** for 
 * Smooth, generalized separation
 * Better margin handling
 
-![SVM Decision Boundary](svm.png)
+![SVM Decision Boundary](visualization/svm.png)
 
 > **Note:** These plots are PCA projections for interpretability and do not represent the full 4D decision space.
 
