@@ -1,0 +1,2 @@
+# Iris-Flower-Classification-using-KNN-and-SVM-PCA-Visualization-Model-Comparison-
+This project implements and compares K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) classifiers on the Iris Flower Dataset using Python and scikit-learn. It includes proper preprocessing, feature scaling, PCA-based decision boundary visualization, and comprehensive evaluation metrics to demonstrate real-world ML workflow
